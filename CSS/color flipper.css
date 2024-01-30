@@ -1,0 +1,7 @@
+.container{
+    /*I'm using display flex to allow me to move it wherever i want*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
